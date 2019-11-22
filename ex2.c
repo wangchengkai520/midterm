@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main(){
 int a,b,c,d,e,f,g,h,i,j,max;
-printf("please input a b c d e f g h i j:\n");
 a=getchar();
 max=a;
 b=getchar();
